@@ -1,31 +1,33 @@
-# NovelStar Release Notes 
+# NovelStar Release Notes
 
-> **Professional Novel Writing Software**  
-> *Windows 95-inspired novel writing app*  
-> **Author:** pixeldude84 | **License:** GPL-3.0
+**Professional Novel Writing Software**  
+*Windows 95-inspired novel writing app*  
+**Author:** pixeldude84 | **License:** GPL-3.0
 
 ---
 
-## 📋 Changelog
+## Changelog
 
-### **v1.1** *(2026)*
-#### ✨ **New Features**
-- **Scene Management**: + Scene, ✗ Del (w/ confirmation), Rename buttons in left panel [web:1]
-- **Editor Toolbar**: Bold/Italic/Underline moved to top; Font size selector; 8 **System Fonts** dropdown
+### v1.1 (Feb 2026)
+
+#### New Features
+- **Scene Management**: + Scene, Del (w/ confirmation), Rename buttons in left panel
+- **Editor Toolbar**: Bold/Italic/Underline moved to top; Font size selector; 8 System Fonts dropdown
 - **Focus Mode**: Renamed from Fullscreen; button moved to toolbar top-right
 - **Auto-Save**: 60-second intervals with "Auto-saved ✓" indicator; toggle in title bar
 
-#### 🐛 **Bug Fixes**
+#### Bug Fixes
 - Words-per-scene target now auto-recalculates when scenes added/deleted
 
-#### 🎨 **UI Changes**
+#### UI Changes
 - Removed decorative window buttons from title bar
-- Version updated to **1.1** throughout
+- Version updated to 1.1 throughout
 
 ---
 
-### **v1.0** *(Feb 2026 - Initial Release)*
-#### ✨ **New Features**
+### v1.0 (Feb 2026 - Initial Release)
+
+#### New Features
 - **New Project Wizard**: Configure chapters, scenes-per-chapter, target word count
 - **Chapter/Scene Tree**: Collapsible left panel w/ live word counts
 - **Rich Text Editor**: Native spell-check, Bold/Italic/Underline, alignment, font size, Tab indent
@@ -37,7 +39,7 @@
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Download** `NovelStar.html`
 2. **Open** in **Chrome/Edge** (Safari/Firefox limited File API support)
@@ -47,7 +49,7 @@
 
 ---
 
-## 🎯 Core Features
+## Core Features
 
 | Category | Features |
 |----------|----------|
@@ -59,7 +61,29 @@
 
 ---
 
-## ⚠️ Known Limitations
+## Known Limitations
+- **Safari**: Limited File System API (Save As → download)
+- **v1.0**: No auto-save (added in v1.1)
+- **PDF**: Fixed Courier font (Shunn standard)
+- **Firefox**: Incomplete spellcheck support
+
+---
+
+## Credits
+
+| Role | Contributor |
+|------|-------------|
+| Design & Concept | pixeldude84 |
+| Code | Claude (Anthropic AI) |
+| PDF | jsPDF |
+| Desktop | Electron |
+
+**License**: GPL-3.0
+
+---
+
+*Write the story only you can tell.*
+
 - **Safari**: Limited File System API (Save As → download)
 - **v1.0**: No auto-save (added in v1.1)
 - **PDF**: Fixed Courier font (Shunn standard)
