@@ -7,6 +7,8 @@
 **License:** GNU General Public License v3.0 (GPL-3.0)
 
 ---
+![NovelStar 1 0](https://github.com/user-attachments/assets/df8e0930-4f29-4d41-a914-37546ecaa851)
+
 
 ## What is NovelStar?
 
