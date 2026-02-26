@@ -116,7 +116,7 @@ Projects save as `.ns` files — plain JSON, editable in any text editor:
 ---
 
 ### v1.0.0 — Initial Release
-*February 2025*
+*February 2026*
 
 First public release of NovelStar.
 
@@ -172,7 +172,7 @@ First public release of NovelStar.
 
 ```
 NovelStar — Professional Novel Writing Software
-Copyright (C) 2025 pixeldude84
+Copyright (C) 2026 pixeldude84
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
