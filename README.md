@@ -1,4 +1,4 @@
-# NovelStar Release Notes (Copy)
+# NovelStar Release Notes 
 
 > **Professional Novel Writing Software**  
 > *Windows 95-inspired novel writing app*  
