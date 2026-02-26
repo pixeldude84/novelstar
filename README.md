@@ -29,9 +29,6 @@ Built for writers who want a distraction‑free way to write and export professi
 - **Locations** — add, describe, and delete named locations
 - Word count stats remain always visible in the status bar
 
-### 📁 File Menu
-- **Close Project** — returns to the splash screen, with an unsaved-changes prompt if needed
-
 ---
 
 ## Screenshots
