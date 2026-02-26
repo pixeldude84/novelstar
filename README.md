@@ -65,18 +65,7 @@
 - **Safari**: Limited File System API (Save As → download)
 - **v1.0**: No auto-save (added in v1.1)
 - **PDF**: Fixed Courier font (Shunn standard)
-- **Firefox**: Incomplete spellcheck support
-
----
-
-## Credits
-
-| Role | Contributor |
-|------|-------------|
-| Design & Concept | pixeldude84 |
-| Code | Claude (Anthropic AI) |
-| PDF | jsPDF |
-| Desktop | Electron |
+- **Firefox**: Incomplete spellcheck ## Credits
 
 **License**: GPL-3.0
 
@@ -97,7 +86,7 @@
 | Design & Concept | pixeldude84 |
 | Code | Claude (Anthropic AI) |
 | PDF | [jsPDF](https://github.com/parallax/jsPDF) |
-| Desktop | [Electron](https://electronjs.org) |
+
 
 **License**: [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
