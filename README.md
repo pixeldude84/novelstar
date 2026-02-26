@@ -20,13 +20,13 @@ Built for writers who want a distraction‑free way to write and export professi
 
 ## Screenshots
 
-# Project Screen
+### Project Screen
 ![screen1](https://github.com/user-attachments/assets/86382af6-fd68-4a6b-a6eb-eeb3f792bda9)
 
-# Main UI
+### Main UI
 ![screen2](https://github.com/user-attachments/assets/9b84c98d-1486-4981-a688-fb66d2f44411)
 
-# Compile Screen
+### Compile Screen
 ![screen3](https://github.com/user-attachments/assets/f1d77618-1707-4ee7-a538-4ec0a439b54d)
 
 
