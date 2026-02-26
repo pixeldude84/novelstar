@@ -1,104 +1,53 @@
-# NovelStar Release Notes
+# NovelStar
 
-**Professional Novel Writing Software**  
-*Windows 95-inspired novel writing app*  
-**Author:** pixeldude84 | **License:** GPL-3.0
+**A minimalist, offline-friendly writing environment for novelists.**
 
-
-#### Screenshots
-![screen 1](https://github.com/user-attachments/assets/8a190df5-cc7d-4f17-8beb-170bab36150a)
-
-![screen2](https://github.com/user-attachments/assets/5aa4430b-e6f8-4cf5-9b33-ea7de73dd526)
-
-![screen3](https://github.com/user-attachments/assets/315a6d77-2edb-43e6-bfdb-c45d97468292)
-
+Built for Linux users who want a distraction‑free way to write and export professional‑format manuscripts — including **William Shunn–formatted PDF** output.
 
 ---
 
-## Changelog
-
-### v1.1 (Feb 2026)
-
-#### New Features
-- **Scene Management**: + Scene, Del (w/ confirmation), Rename buttons in left panel
-- **Editor Toolbar**: Bold/Italic/Underline moved to top; Font size selector; 8 System Fonts dropdown
-- **Focus Mode**: Renamed from Fullscreen; button moved to toolbar top-right
-- **Auto-Save**: 60-second intervals with "Auto-saved ✓" indicator; toggle in title bar
-
-#### Bug Fixes
-- Words-per-scene target now auto-recalculates when scenes added/deleted
-
-#### UI Changes
-- Removed decorative window buttons from title bar
-- Version updated to 1.1 throughout
-
----
-
-### v1.0 (Feb 2026 - Initial Release)
-
-#### New Features
-- **New Project Wizard**: Configure chapters, scenes-per-chapter, target word count
-- **Chapter/Scene Tree**: Collapsible left panel w/ live word counts
-- **Rich Text Editor**: Native spell-check, Bold/Italic/Underline, alignment, font size, Tab indent
-- **Focus Mode**: Fullscreen distraction-free writing w/ live counters
-- **Stats Panel**: Total/target/remaining words, progress bar, chapter breakdown
-- **Shunn Manuscript Format**: HTML preview + PDF export (title page, running headers, Courier 12pt)
-- **.ns JSON Projects**: Save/Open w/ unsaved changes indicator
-- **Grammar Bar**: Real-time doubled words, spacing, lowercase "i" detection
-
----
-
-## Quick Start
-
-1. **Download** `NovelStar.html`
-2. **Open** in **Chrome/Edge** (Safari/Firefox limited File API support)
-3. **Works offline** - no install, no account needed
-
-**Keyboard Shortcuts**: `Ctrl+N` New | `Ctrl+O` Open | `Ctrl+S` Save
-
----
-
-## Core Features
+## ✨ Core Features
 
 | Category | Features |
-|----------|----------|
-| **Writing** | Contenteditable iframe, native spellcheck, rich text toolbar, Focus Mode |
-| **Organization** | Chapter/scene tree, per-scene/chapter/project notes, scene rename |
-| **Tracking** | Live word counts, auto-calculated targets, progress bars |
-| **Export** | Shunn format PDF (title page, headers, 12pt Courier, proper indents) |
-| **Interface** | Windows 95 aesthetic, typewriter icon, toast notifications |
+|-----------|-----------|
+| **Writing** | Rich‑text editor, native spell‑check, distraction‑free Focus Mode |
+| **Organization** | Drag‑and‑drop Scene Tree, chapters and scenes, notes, character and location tracking |
+| **Tracking** | Live word counts, auto‑calculated targets, progress indicators |
+| **Export** | Shunn‑format PDF (title page, headers, 12 pt Courier, proper indents) |
+| **Interface** | Windows 95 aesthetic, light/dark themes, toast notifications, offline‑ready |
 
 ---
 
-## Known Limitations
-- **Safari**: Limited File System API (Save As → download)
-- **v1.0**: No auto-save (added in v1.1)
-- **PDF**: Fixed Courier font (Shunn standard)
-- **Firefox**: Incomplete spellcheck ## Credits
+## 🚀 Quick Start
 
-**License**: GPL-3.0
+1. **Download** `NovelStar.html`  
+2. **Open** in **Chrome** or **Edge** (Safari/Firefox have limited File API support)  
+3. **Start writing** — no install, no login, works completely offline  
+
+**Keyboard Shortcuts:**  
+`Ctrl + N` → New | `Ctrl + O` → Open | `Ctrl + S` → Save  
 
 ---
 
-*Write the story only you can tell.*
+## ⚠️ Known Limitations
 
-- **Safari**: Limited File System API (Save As → download)
-- **v1.0**: No auto-save (added in v1.1)
-- **PDF**: Fixed Courier font (Shunn standard)
-- **Firefox**: Incomplete spellcheck support
+- **Safari / Firefox:** Limited file‑system access (Save As → download)  
+- **PDF:** Uses fixed Courier font per Shunn standard  
 
 ---
 
 ## 👥 Credits
+
 | Role | Contributor |
 |------|-------------|
-| Design & Concept | pixeldude84 |
-| Code | Claude (Anthropic AI) |
-| PDF | [jsPDF](https://github.com/parallax/jsPDF) |
-
-
-**License**: [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+| Design & Concept | **pixeldude84** |
+| Code | **Claude (Anthropic AI)** |
+| PDF Engine | [jsPDF](https://github.com/parallax/jsPDF) |
 
 ---
 
-*Write the story only you can tell.* 
+**License:** [GPL‑3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+---
+
+*Write the story only you can tell.*
