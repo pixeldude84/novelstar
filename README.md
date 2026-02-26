@@ -108,41 +108,6 @@ Projects save as `.ns` files — plain JSON, editable in any text editor:
     }
   ]
 }
-```
-
----
-
-## Building the Desktop App
-
-The `novelstar-electron.zip` contains a full Electron wrapper.
-
-### Prerequisites
-- [Node.js 18+](https://nodejs.org) — free
-
-### Build on your machine
-
-```bash
-npm install        # first time only (~3 min)
-
-npm run dist:win   # → dist/NovelStar-Portable.exe
-npm run dist:mac   # → dist/NovelStar.dmg  (must run ON a Mac)
-npm run dist:linux # → dist/NovelStar.AppImage
-```
-
-Helper scripts: `build.bat` (Windows) or `./build.sh` (Mac/Linux)
-
-### Build All 3 Platforms Free via GitHub Actions
-
-1. Create a free [GitHub](https://github.com) account
-2. Create a new repo and upload the contents of `novelstar-electron.zip`
-3. **Actions → Build NovelStar → Run workflow**
-4. Download all 3 builds from **Artifacts** after ~5 minutes
-
-| Platform | Output File | How to use |
-|----------|-------------|------------|
-| Windows  | `NovelStar-Portable.exe` | Double-click — no install needed |
-| macOS    | `NovelStar.dmg` | Open DMG, drag to Applications |
-| Linux    | `NovelStar.AppImage` | `chmod +x` then double-click |
 
 ---
 
@@ -188,16 +153,6 @@ First public release of NovelStar.
 - Word count forced-flush on compile open and PDF/preview generation to prevent stale 0-word counts
 - All word count reads go through `getEditorText()` helper which reads live from iframe body
 - `electron-builder` configured for portable EXE (Windows), universal DMG (macOS x64 + arm64), and AppImage (Linux x64)
-
----
-
-## Known Limitations
-
-- **macOS DMG** must be built on macOS hardware (Apple enforces this). Use GitHub Actions as a workaround.
-- **Safari** has limited File System Access API support — Save As will fall back to a file download instead of in-place overwrite.
-- The app does **not auto-save** — use Ctrl+S regularly.
-- PDF export uses Courier throughout. Shunn format mandates this; font choice is not customisable in v1.0.
-- Spellcheck works best in Chrome and Edge. Firefox may not show squiggles in all cases.
 
 ---
 
