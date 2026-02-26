@@ -4,6 +4,13 @@
 *Windows 95-inspired novel writing app*  
 **Author:** pixeldude84 | **License:** GPL-3.0
 
+
+![screen 1](https://github.com/user-attachments/assets/8a190df5-cc7d-4f17-8beb-170bab36150a)
+
+![screen2](https://github.com/user-attachments/assets/5aa4430b-e6f8-4cf5-9b33-ea7de73dd526)
+
+![screen3](https://github.com/user-attachments/assets/73ff64c3-cf57-420f-9d9a-4303e1e46a83)
+
 ---
 
 ## Changelog
