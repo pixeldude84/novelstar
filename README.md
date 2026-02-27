@@ -4,7 +4,7 @@
 Built for writers who want a distraction‑free way to write and export professional‑format manuscripts — including **William Shunn–formatted PDF** output.
 
 ---
-[Uploading NovelStar 1.2.html…]()
+
 
 ## ✨ Core Features
 
