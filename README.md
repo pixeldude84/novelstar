@@ -14,7 +14,7 @@ Built for writers who want a distraction‑free way to write and export professi
 | **Writing** | Rich‑text editor, native spell‑check, distraction‑free Focus Mode (fully theme-aware), correct paragraph spacing in PDF/preview export |
 | **Organization** | Drag‑and‑drop Scene Tree (with draggable chapters), chapters and scenes, Scene Notes, character and location tracking |
 | **Tracking** | Live word counts, auto‑calculated targets (recalculate on every add/delete/drag), progress indicators |
-| **Export** | Shunn‑format PDF (title page, headers, 12 pt Courier, proper indents) |
+| **Export** | Shunn‑format Text, Markdown, DOCX & PDF (title page, headers, 12 pt Courier, proper indents) |
 | **Interface** | Windows 95 aesthetic, light/dark themes (saved across sessions), toast notifications, offline‑ready |
 
 ### 🗂️ Scene Tree
