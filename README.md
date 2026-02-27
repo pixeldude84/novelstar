@@ -42,7 +42,7 @@ Built for writers who want a distraction‑free way to write and export professi
 
 
 ### Compile Screen
-![screen3](https://github.com/user-attachments/assets/f1d77618-1707-4ee7-a538-4ec0a439b54d)
+![screen3](https://github.com/user-attachments/assets/7a88cc88-8d10-4909-8454-e0b0ab16adb3)
 
 
 ## 🚀 Quick Start
