@@ -3,7 +3,7 @@
 
 ## Now Availible
 ### HTML (beta)
-### LINUX   
+### LINUX 
 ### (MAC OS and Windows coming soon)
 
 **A minimalist, offline-friendly writing environment for novelists.**
@@ -51,7 +51,7 @@ Built for writers who want a distraction‑free way to write and export professi
 
 ## 🚀 Quick Start
 
-1. **Download** `NovelStar.html` or 'novelstar-linux.tar.gz' (install for linux)
+1. **Download** `NovelStar.html` or 'novelstar-linux.tar.gz' (install for linux) (instructions in release notes for 1.2)
 2. **Open** in **Chrome** or **Edge** (Safari/Firefox have limited File API support) or choose the app icon
 3. **Start writing** — no install via html, no login, works completely offline
 
