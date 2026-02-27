@@ -1,5 +1,4 @@
 # NovelStar
-<img width="256" height="256" alt="NovelStar Icon" src="https://github.com/user-attachments/assets/871b3587-a760-4f2d-acba-0c6cfc0c95cb" />
 ---
 **A minimalist, offline-friendly writing environment for novelists.**
 Built for writers who want a distraction‑free way to write and export professional‑format manuscripts — including **William Shunn–formatted PDF** output.
