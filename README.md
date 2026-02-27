@@ -3,7 +3,7 @@
 
 ## Now Availible
 ### HTML (beta)
-### LINUX 
+### LINUX install file (node.js needs to be installed first)
 ### (MAC OS and Windows coming later)
 
 **A minimalist, offline-friendly writing environment for novelists.**
