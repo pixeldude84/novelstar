@@ -38,8 +38,7 @@ Built for writers who want a distraction‑free way to write and export professi
 
 
 ### Main Screen
-![screen2](https://github.com/user-attachments/assets/792e074b-82f8-43f4-bffb-bf249035d11b)
-
+![screen2](https://github.com/user-attachments/assets/f51229a9-7a1e-43b6-8309-a4ce31a8aa51)
 
 
 
