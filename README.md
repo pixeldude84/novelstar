@@ -1,4 +1,3 @@
-![screen1](https://github.com/user-attachments/assets/fd208916-c507-4227-bbd6-c3ea6d7e8400)
 # NovelStar
 ![welcome screen](https://github.com/user-attachments/assets/ff8aef35-85e4-467a-b233-c248f8e1fa4d)
 
