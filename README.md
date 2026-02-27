@@ -4,7 +4,7 @@
 ## Now Availible
 ### HTML (beta)
 ### LINUX 
-### (MAC OS and Windows coming soon)
+### (MAC OS and Windows coming later)
 
 **A minimalist, offline-friendly writing environment for novelists.**
 Built for writers who want a distraction‑free way to write and export professional‑format manuscripts — including **William Shunn–formatted PDF** output.
