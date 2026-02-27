@@ -1,6 +1,7 @@
 # NovelStar
 ![welcome screen](https://github.com/user-attachments/assets/ff8aef35-85e4-467a-b233-c248f8e1fa4d)
 
+Supported: #HTML 7 #LINUX   (MAC OS and WINDOWS SUPPORT COMING SOON)
 
 **A minimalist, offline-friendly writing environment for novelists.**
 Built for writers who want a distraction‑free way to write and export professional‑format manuscripts — including **William Shunn–formatted PDF** output.
@@ -47,9 +48,9 @@ Built for writers who want a distraction‑free way to write and export professi
 
 ## 🚀 Quick Start
 
-1. **Download** `NovelStar.html`
-2. **Open** in **Chrome** or **Edge** (Safari/Firefox have limited File API support)
-3. **Start writing** — no install, no login, works completely offline
+1. **Download** `NovelStar.html` or 'novelstar-linux.tar.gz' (install for linux)
+2. **Open** in **Chrome** or **Edge** (Safari/Firefox have limited File API support) or choose the app icon
+3. **Start writing** — no install via html, no login, works completely offline
 
 **Keyboard Shortcuts:**
 `Ctrl + N` → New | `Ctrl + O` → Open | `Ctrl + S` → Save
