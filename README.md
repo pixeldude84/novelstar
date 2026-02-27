@@ -1,7 +1,10 @@
 # NovelStar
 ![welcome screen](https://github.com/user-attachments/assets/ff8aef35-85e4-467a-b233-c248f8e1fa4d)
 
-Supported: # HTML 7 # LINUX   (MAC OS and WINDOWS SUPPORT COMING SOON)
+## Now Availible
+# HTML 
+# LINUX   
+# (MAC OS and WINDOWS SUPPORT COMING SOON)
 
 **A minimalist, offline-friendly writing environment for novelists.**
 Built for writers who want a distraction‑free way to write and export professional‑format manuscripts — including **William Shunn–formatted PDF** output.
