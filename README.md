@@ -36,12 +36,13 @@ Built for writers who want a distraction‑free way to write and export professi
 
 
 ### Main Screen
-![screen2](https://github.com/user-attachments/assets/f51229a9-7a1e-43b6-8309-a4ce31a8aa51)
+![screen2](https://github.com/user-attachments/assets/70b5acc2-1086-46ca-9557-51406a6dc358)
 
 
 
 ### Compile Screen
-![screen3](https://github.com/user-attachments/assets/7a88cc88-8d10-4909-8454-e0b0ab16adb3)
+![screen3](https://github.com/user-attachments/assets/73c42adf-bac4-4e09-a356-ceb3237befbb)
+
 
 
 ## 🚀 Quick Start
