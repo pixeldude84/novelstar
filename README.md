@@ -4,7 +4,7 @@
 ## Now Availible
 ### HTML (beta)
 ### LINUX install file (node.js needs to be installed first)
-### (MAC OS and Windows coming later)
+### (MAC OS and Windows in the future) *SEEKING DEVS FOR PORTING
 
 **A minimalist, offline-friendly writing environment for novelists.**
 Built for writers who want a distraction‑free way to write and export professional‑format manuscripts — including **William Shunn–formatted PDF** output.
