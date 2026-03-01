@@ -16,7 +16,7 @@ Built for writers who want a distraction-free way to write and export profession
 | Platform | Download | Notes |
 |----------|----------|-------|
 | **Linux** | [`novelstar_1.4_amd64.deb`](releases/novelstar_1.4_amd64.deb) | Ubuntu 20.04+ · Lubuntu · Appears in Applications → Office |
-| **macOS** | [`NovelStar_1.4.dmg`](releases/NovelStar_1.4.dmg) | macOS 10.13 High Sierra and later |
+| **macOS** | [`NovelStar_1.4.html`](releases/NovelStar_1.4.html) | Open in Chrome or Edge — no install needed |
 | **Windows / Any browser** | [`NovelStar_1.4.html`](releases/NovelStar_1.4.html) | Open in Chrome or Edge — no install needed |
 
 ### Linux install
