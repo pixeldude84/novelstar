@@ -56,19 +56,22 @@ Built for writers who want a distraction-free way to write and export profession
 ## Screenshots
 
 ### New Project
-![Uploading screen2.jpg…]()
+![screen2](https://github.com/user-attachments/assets/3826d124-f203-4776-b0c8-da591798a2cc)
 
 
 ### Main Screen
-![Uploading screen3.jpg…]()
+![screen3](https://github.com/user-attachments/assets/e98f01dd-8b4d-4ace-a7c1-5baca7ab70b1)
+
 
 
 ### Planner
-![Uploading screen4.jpg…]()
+![screen4](https://github.com/user-attachments/assets/6ae77eab-766a-4212-91ec-1c2addf3f0b7)
+
 
 
 ### Compile
-![Uploading screen5.jpg…]()
+![screen5](https://github.com/user-attachments/assets/84d8abd4-68ef-4d11-985d-4eb3e18112e8)
+
 
 ---
 
