@@ -9,7 +9,23 @@ Built for writers who want a distraction-free way to write and export profession
 
 ![screen1](https://github.com/user-attachments/assets/f9aacd73-06a5-4727-b6d4-2a6102952ad4)
 
+---
 
+## 📦 Download
+
+| Platform | Download | Notes |
+|----------|----------|-------|
+| **Linux** | [`novelstar_1.4_amd64.deb`](releases/novelstar_1.4_amd64.deb) | Ubuntu 20.04+ · Lubuntu · Appears in Applications → Office |
+| **macOS** | [`NovelStar_1.4.dmg`](releases/NovelStar_1.4.dmg) | macOS 10.13 High Sierra and later |
+| **Windows / Any browser** | [`NovelStar_1.4.html`](releases/NovelStar_1.4.html) | Open in Chrome or Edge — no install needed |
+
+### Linux install
+```bash
+sudo apt install ./novelstar_1.4_amd64.deb
+```
+NovelStar appears in **Applications → Office** immediately after install. No internet required — all libraries are bundled.
+
+---
 
 ## ✨ Core Features
 
@@ -62,28 +78,32 @@ Built for writers who want a distraction-free way to write and export profession
 ### New Project
 ![screen2](https://github.com/user-attachments/assets/3826d124-f203-4776-b0c8-da591798a2cc)
 
-
 ### Main Screen
 ![screen3](https://github.com/user-attachments/assets/e98f01dd-8b4d-4ace-a7c1-5baca7ab70b1)
-
-
 
 ### Planner
 ![screen4](https://github.com/user-attachments/assets/6ae77eab-766a-4212-91ec-1c2addf3f0b7)
 
-
-
 ### Compile
 ![screen5](https://github.com/user-attachments/assets/84d8abd4-68ef-4d11-985d-4eb3e18112e8)
-
 
 ---
 
 ## 🚀 Quick Start
 
-1. **Download** `NovelStar.html`
-2. **Open** in **Chrome** or **Edge** (Safari/Firefox have limited File API support)
-3. **Start writing** — no install, no login, works completely offline
+**Linux (.deb)**
+```bash
+sudo apt install ./novelstar_1.4_amd64.deb
+```
+Then launch from **Applications → Office → NovelStar**, or run `novelstar` in a terminal.
+
+**macOS (.dmg)**
+Open `NovelStar_1.4.dmg`, drag the app to your Applications folder, and double-click to launch.
+
+**Browser (any platform)**
+1. Download `NovelStar_1.4.html`
+2. Open in **Chrome** or **Edge** (Safari/Firefox have limited File API support)
+3. Start writing — no install, no login, works completely offline
 
 **Keyboard Shortcuts:**
 `Ctrl + N` → New &nbsp;|&nbsp; `Ctrl + O` → Open Project &nbsp;|&nbsp; `Ctrl + S` → Save &nbsp;|&nbsp; `Ctrl + Shift + S` → Save As
@@ -92,6 +112,7 @@ Built for writers who want a distraction-free way to write and export profession
 
 ## 🆕 What's New in 1.4
 
+- **Linux desktop app** — native `.deb` package for Ubuntu and Lubuntu; shows in the Applications menu, fully offline, no browser required
 - **UI completely redesigned** — modern light mode replaces the Windows 95 aesthetic; cleaner panels, rounded corners, and a refined indigo accent color throughout
 - **New typefaces** — `Inter` for UI, `JetBrains Mono` for counters, `Libre Baskerville` for the writing editor
 - **Editor margins fixed** — text no longer runs to the edge of the page; the editor now renders as a white page card with proper manuscript-style margins floating on a desk surface
@@ -111,6 +132,7 @@ See the full [release notes](NovelStar_1_4_ReleaseNotes.md) for details.
 - **Safari / Firefox:** Limited file-system access (Save As → download fallback)
 - **PDF:** Uses Times New Roman per Shunn standard
 - **Auto-save:** Requires a previously saved `.ns` file — use Save As on new projects first
+- **Linux:** On first launch, NovelStar compiles a native GTK launcher (~5 seconds). If GTK/WebKit libraries are not installed, the app opens in your default browser instead — all features work either way.
 
 ---
 
