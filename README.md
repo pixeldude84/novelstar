@@ -7,7 +7,8 @@ Built for writers who want a distraction-free way to write and export profession
 
 ---
 
-![screen1](https://github.com/user-attachments/assets/9d263966-ccaf-4fc2-8514-3890399f3f90)
+![screen1](https://github.com/user-attachments/assets/f9aacd73-06a5-4727-b6d4-2a6102952ad4)
+
 
 
 ## ✨ Core Features
