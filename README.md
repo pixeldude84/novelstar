@@ -11,34 +11,34 @@ Built for writers who want a distraction-free way to write and export profession
 
 | Category | Features |
 |----------|----------|
-| **Writing** | Rich-text editor, native spell-check, distraction-free Focus Mode (fully theme-aware), correct paragraph spacing in PDF/preview export |
+| **Writing** | Rich-text editor (Libre Baskerville serif, proper page margins), native spell-check, distraction-free Focus Mode (fully theme-aware), correct paragraph spacing in PDF/preview export |
 | **Organization** | Drag-and-drop Scene Tree (with draggable chapters), chapters and scenes, Scene Notes, character and location tracking |
 | **Tracking** | Live word counts, auto-calculated targets (recalculate on every add/delete/drag), progress indicators |
 | **Export** | Shunn-format Text, Markdown, EPUB, DOCX & PDF (title page, headers, 12 pt Times New Roman, proper indents) |
 | **Planning** | Story Planner with Wall View (corkboard grid) and Timeline View — drag scenes between chapters, per-scene synopsis cards, chapter renaming |
 | **Project** | Project Settings (edit title & author anytime), template presets (Novel / Novella / Short Story), auto scene renumbering on drag |
-| **Interface** | Windows 95 aesthetic, light/dark themes (saved across sessions), toast notifications, offline-ready |
+| **Interface** | Clean modern light mode, light/dark themes (saved across sessions), toast notifications, offline-ready |
 
 ---
 
 ### 🗂️ Scene Tree
 
 - Drag and drop scenes between chapters — drop onto a scene to insert, or onto a chapter header to append
-- Add and delete chapters with **+ Chapter** / **✗ Del Ch** buttons; double-click any chapter to rename it
+- Add and delete chapters with **+ Chapter** / **Del Ch** buttons; double-click any chapter to rename it
 - Drag entire chapter folders to reorder them, with a live blue-line insertion indicator
 - Scenes **auto-renumber** (Scene 1, 2, 3…) across all chapters when moved — custom names are preserved
 
 ### 🗃️ Story Planner
 
 - Full-screen planner overlay — open via the **⎃ Planner** button in the editor toolbar
-- **Wall View** (default) — corkboard-style grid, 3 chapters per row, large index cards with editable synopsis
+- **Wall View** (default) — corkboard-style grid, light gray background, dark-gray chapter headers; the active chapter highlighted in blue
 - **Timeline View** — horizontal scroll, one chapter column per chapter, compact cards
 - Drag scenes freely between any chapter in either view — changes sync live to the Scene Tree
 - Double-click any chapter header to rename it directly in the planner
 
 ### 📋 Right Panel
 
-- **Scene Notes** — single focused notes box per scene
+- **Notes** — single focused notes box per scene
 - **Characters** — add, describe, and delete story characters
 - **Locations** — add, describe, and delete named locations
 - Word count stats remain always visible in the status bar
@@ -56,19 +56,19 @@ Built for writers who want a distraction-free way to write and export profession
 ## Screenshots
 
 ### New Project
-![screen1](https://github.com/user-attachments/assets/8034c5f7-e765-459f-8e4d-3af263acef76)
+![Uploading screen2.jpg…]()
 
 
 ### Main Screen
-![screen2](https://github.com/user-attachments/assets/e25f4548-2611-4e4e-b8fb-02d55bfc390b)
+![Uploading screen3.jpg…]()
+
 
 ### Planner
-![screen3](https://github.com/user-attachments/assets/a8da42b4-b6a9-4b3e-9d3c-69dd30caeac5)
+![Uploading screen4.jpg…]()
 
 
 ### Compile
-![screen4](https://github.com/user-attachments/assets/4b67ef95-b61c-419d-9e89-6e8dee63ff67)
-
+![Uploading screen5.jpg…]()
 
 ---
 
@@ -79,7 +79,23 @@ Built for writers who want a distraction-free way to write and export profession
 3. **Start writing** — no install, no login, works completely offline
 
 **Keyboard Shortcuts:**
-`Ctrl + N` → New &nbsp;|&nbsp; `Ctrl + O` → Open &nbsp;|&nbsp; `Ctrl + S` → Save &nbsp;|&nbsp; `Ctrl + Shift + S` → Save As
+`Ctrl + N` → New &nbsp;|&nbsp; `Ctrl + O` → Open Project &nbsp;|&nbsp; `Ctrl + S` → Save &nbsp;|&nbsp; `Ctrl + Shift + S` → Save As
+
+---
+
+## 🆕 What's New in 1.4
+
+- **UI completely redesigned** — modern light mode replaces the Windows 95 aesthetic; cleaner panels, rounded corners, and a refined indigo accent color throughout
+- **New typefaces** — `Inter` for UI, `JetBrains Mono` for counters, `Libre Baskerville` for the writing editor
+- **Editor margins fixed** — text no longer runs to the edge of the page; the editor now renders as a white page card with proper manuscript-style margins floating on a desk surface
+- **Larger editor canvas** — more vertical and horizontal writing space
+- **EPUB export fixed** — corrupt ZIP/EPUB output resolved; files now open correctly in Calibre, Apple Books, Kindle, and all major readers
+- **Dark mode toggle always visible** — the button is now a bright light-gray circle in dark mode so it's always findable; icon switches between 🌙 and ☀️
+- **+ button clipping fixed** — Characters and Locations add buttons no longer get cut off at the panel edge
+- **"Open Project…"** replaces "Open File…" on the splash screen
+- **Planner rethemed** — light gray background, dark-gray chapter headers, active chapter highlighted in blue; Wall/Timeline toggle buttons now clearly show the active view
+
+See the full [release notes](NovelStar_1_4_ReleaseNotes.md) for details.
 
 ---
 
