@@ -1,5 +1,8 @@
 # NovelStar
 
+*NOVELSTAR HAS BEEN FORKED to my new GITHUB
+https://github.com/scripthook84/Novelcraft
+
 ---
 
 **A minimalist, offline-friendly writing environment for novelists.**
