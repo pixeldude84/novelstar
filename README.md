@@ -1,6 +1,6 @@
 # NovelStar
 
-*NOVELSTAR HAS BEEN FORKED to my new GITHUB
+*NOVELSTAR HAS BEEN FORKED OVER TO MY NEW GITHUB
 https://github.com/scripthook84/Novelcraft
 
 ---
